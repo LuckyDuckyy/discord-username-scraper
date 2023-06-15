@@ -1,5 +1,6 @@
 # Discord Username Dictionary Scraper
 Made for scraping frequently used English words for Discord Pomelo usernames!
+Support by giving me a ⭐!
 
 ## Features
 - Option to scrape words that begin or ends with your string.
